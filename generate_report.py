@@ -45,6 +45,30 @@ projects = [
         "repo": "https://github.com/DevDhapodkar/Admin-Building-Weekend-Dip",
         "desc": "Apply k-means clustering on usage profiles then regress clusters for forecasts; pie charts show savings potential on dashboard."
     },
+    {
+        "title": "Week 8: Parking Lot Lighting Forecast",
+        "image": "Week-8-Parking-Lot-Lighting-Forecast/screenshot.png",
+        "repo": "https://github.com/DevDhapodkar/Parking-Lot-Lighting-Forecast",
+        "desc": "Uses sensor-based vehicle count data with polynomial regression for light usage. Real-time bar chart with anomaly alerts."
+    },
+    {
+        "title": "Week 9: Hostel Laundry Peak Prediction",
+        "image": "Week-9-Hostel-Laundry-Peak-Prediction/screenshot.png",
+        "repo": "https://github.com/DevDhapodkar/Hostel-Laundry-Peak-Prediction",
+        "desc": "Time-series data with naive Bayes for usage categories; forecasting with Prophet. Dashboard with timeline slider for what-if scenarios."
+    },
+    {
+        "title": "Week 10: Campus-Wide Sustainability Tracker",
+        "image": "Week-10-Campus-Wide-Sustainability-Tracker/screenshot.png",
+        "repo": "https://github.com/DevDhapodkar/Campus-Wide-Sustainability-Tracker",
+        "desc": "Ensemble basic models (regression + smoothing) on aggregated data. Comprehensive dashboard with KPIs like carbon savings."
+    },
+    {
+        "title": "Week 11: User Registration Portal",
+        "image": "Week-11-User-Registration-Portal/screenshot.png",
+        "repo": "https://github.com/DevDhapodkar/User-Registration-Portal",
+        "desc": "Secure wearable data management with JWT authentication and AES-256 encryption. React interface for synchronization and profile decryption."
+    },
 ]
 
 def generate_report():
