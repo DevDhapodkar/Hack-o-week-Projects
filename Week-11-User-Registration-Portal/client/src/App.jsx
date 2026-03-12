@@ -53,7 +53,7 @@ const App = () => {
               <ShieldCheck size={32} color="var(--primary)" />
             </div>
             <h1>{isLogin ? 'Welcome Back' : 'Create Account'}</h1>
-            <p style={{ color: var(--text-muted) }}>Secure Registration Portal</p>
+            <p style={{ color: 'var(--text-muted)' }}>Secure Registration Portal</p>
           </div>
 
           <form onSubmit={handleAuth}>
